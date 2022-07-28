@@ -58,6 +58,7 @@ for(let indice = 0; indice < pessoas.length; indice++) {
   console.log("Peso: "+ massa)
   console.log("Altura: "+ altura)
   console.log("IMC: "+ IMC.toFixed(2))
+  // to.fixed para reduzir a dízima
   
   console.log("Nível: " + niveis[nivel])
   console.log(" ")
