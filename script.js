@@ -8,9 +8,9 @@ let niveis = ["Muito abaixo do peso",
               "Obesidade grau II",
               "Obesidade grau III"]
 
-let pessoas = ["Carlos Henrique", "Elizabeth", "Elias"];
-let massas = [80, 70, 60];
-let alturas = [1.70, 1.90, 1.80];            
+let pessoas = ["Carlos Henrique", "Elizabeth", "Elias", "Marcos"];
+let massas = [80, 70, 60, 90];
+let alturas = [1.70, 1.90, 1.80, 2.10];            
 
 // funcoes --------------------------------------
 
