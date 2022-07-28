@@ -1,4 +1,4 @@
-// variaveis ----------------------------------
+// variaveis --------------------------------------
 
 let niveis = ["Muito abaixo do peso",
               "Abaixo do peso",
@@ -12,7 +12,7 @@ let pessoas = ["Carlos Henrique", "Elizabeth", "Elias", "Marcos"];
 let massas = [80, 70, 60, 90];
 let alturas = [1.70, 1.90, 1.80, 2.10];            
 
-// funcoes --------------------------------------
+// funcoes ----------------------------------------
 
 function calcularIMC (massa, altura) {
   let IMC = massa / (altura ** 2);
@@ -42,7 +42,7 @@ function verificaNivel (IMC) {
   return nivel
 }
 
-// execucao --------------------------------------
+// execucao ----------------------------------------
 
 /*let indice = 0*/
 
