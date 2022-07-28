@@ -1,3 +1,4 @@
+// variaveis ----------------------------------
 
 let niveis = ["Muito abaixo do peso",
               "Abaixo do peso",
@@ -13,6 +14,7 @@ function calcularIMC (massa, altura) {
   return IMC;
 }
 
+// funcoes --------------------------------------
 function verificaNivel (IMC) {
   let nivel = 0;
 
@@ -34,6 +36,8 @@ function verificaNivel (IMC) {
 
   return nivel
 }
+
+// execucao --------------------------------------
 
 let nivel = verificaNivel(calcularIMC(150,1.90))
 console.log(niveis[nivel])
