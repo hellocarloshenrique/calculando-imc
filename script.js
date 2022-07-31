@@ -4,9 +4,9 @@ let niveis = ["Muito abaixo do peso",
               "Abaixo do peso",
               "Peso normal",
               "Acima do peso",
-              "Obesidade grau I",
-              "Obesidade grau II",
-              "Obesidade grau III"]
+              "Obesidade grau 1",
+              "Obesidade grau 2",
+              "Obesidade grau 3"]
 
 let pessoas = ["Carlos Henrique", "Elizabeth", "Elias", "Marcos"];
 let massas = [80, 70, 60, 90];
